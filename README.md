@@ -19,6 +19,8 @@ Variables, functions, loops, range, structs, maps, and basic program structure.
 - `library-book-checker`: checking library books
 - `employee-management-system`: managing employee records
 - `student-result-management-system`: managing student results
+- `employe-management-system-pointers`: same program rewritten with pointer receivers
+- `pointers-practice`: practice with pointers
 
 ## About me
 I'm a BS Computer Science student learning Go and building my fundamentals step by step.
