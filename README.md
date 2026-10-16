@@ -21,6 +21,8 @@ Variables, functions, loops, range, structs, maps, and basic program structure.
 - `student-result-management-system`: managing student results
 - `employe-management-system-pointers`: same program rewritten with pointer receivers
 - `pointers-practice`: practice with pointers
+- `error-handling-practice`: practice with Go error handling
+- `error-handlinginemployeemanagementsystem`: employee management system with error handling
 
 ## About me
 I'm a BS Computer Science student learning Go and building my fundamentals step by step.
