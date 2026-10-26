@@ -23,6 +23,6 @@ Variables, functions, loops, range, structs, maps, and basic program structure.
 - `pointers-practice`: practice with pointers
 - `error-handling-practice`: practice with Go error handling
 - `error-handlinginemployeemanagementsystem`: employee management system with error handling
-
+- `minibanksystem`: a bank program with deposit, withdraw and transfer, using error handling for problems like a missing account
 ## About me
 I'm a BS Computer Science student learning Go and building my fundamentals step by step.
